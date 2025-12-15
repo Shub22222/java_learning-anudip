@@ -1,0 +1,10 @@
+the value is never change while excution of programm!!!!!
+  Achieving Constants in Java
+
+A true Java constant is defined by using the following three modifiers together:
+Modifier	Purpose
+public	Allows the constant to be accessed from anywhere (common for universal constants).
+static	The constant belongs to the class, not to any specific instance (object) of the class. There is only one copy of the constant, regardless of how many objects are created.
+final	This is the critical modifier. It means the variable can only be assigned a value once. Any attempt to reassign it will result in a compile-time error.
+
+  int count = 5;

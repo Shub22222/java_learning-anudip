@@ -1,0 +1,9 @@
+
+
+All Java variables must be identified with unique names.
+
+These unique names are called identifiers.
+
+int number =5;
+
+number is identifire

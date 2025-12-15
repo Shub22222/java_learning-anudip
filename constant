@@ -7,4 +7,6 @@ public	Allows the constant to be accessed from anywhere (common for universal co
 static	The constant belongs to the class, not to any specific instance (object) of the class. There is only one copy of the constant, regardless of how many objects are created.
 final	This is the critical modifier. It means the variable can only be assigned a value once. Any attempt to reassign it will result in a compile-time error.
 
-  int count = 5;
+ final int count = 5;
+
+The term "Constant" refers to an Identifier that is declared with the final keyword and whose value cannot change

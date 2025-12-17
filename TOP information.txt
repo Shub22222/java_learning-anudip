@@ -1,0 +1,2 @@
+in industry never use scanner class!!!!!! ,
+use bufferreaderclass use, !!!!!!!

@@ -1,0 +1,12 @@
+class Hello {
+
+    // Class name should be same as file name if the class is public
+
+    public static void main(String[] args) {
+
+        // public  -> accessible from anywhere (other classes, packages, JVM)
+        // static  -> no need to create object; JVM can call it directly
+        // void    -> does not return any value
+        // main    -> JVM starts execution from here
+    }
+}

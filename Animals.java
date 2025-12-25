@@ -1,6 +1,6 @@
 
 
-  interface Animal {
+  interface Animals {
     void sleep();
     void sound();
      

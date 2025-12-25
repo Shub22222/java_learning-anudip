@@ -1,0 +1,46 @@
+2. Which of these can be used to fully abstract a class from its implementation?
+a) Objects
+b) Packages
+c) Interfaces
+d) None of the Mentioned
+View Answer
+
+Answer: c
+Explanation: The concept of fully abstracting a class from its implementation is commonly achieved using interfaces.
+
+  Java Interface MCQs
+
+Q1. Which keyword is used by a class to implement an interface in Java?
+a) extends
+b) implements
+c) interface
+d) inherit
+Answer: b) implements
+
+Q2. What is the default nature of methods declared inside an interface?
+a) static and final
+b) public and abstract
+c) private and abstract
+d) protected and abstract
+Answer: b) public and abstract
+
+Q3. Can you create an object directly from an interface?
+a) Yes, using new keyword
+b) No, interfaces cannot be instantiated
+c) Yes, if it has default methods
+d) Yes, but only if it has constants
+Answer: b) No, interfaces cannot be instantiated
+
+Q4. What feature do interfaces provide that classes alone cannot?
+a) Polymorphism
+b) Multiple inheritance
+c) Encapsulation
+d) Abstraction
+Answer: b) Multiple inheritance
+
+Q5. Which of the following can be declared inside an interface?
+a) Constructors
+b) Instance variables
+c) Static final constants
+d) Private constructors
+Answer: c) Static final constants

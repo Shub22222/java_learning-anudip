@@ -1,0 +1,12 @@
+
+ public class pigl implements Animal1 {
+
+    public void animal_sound(){
+        System.out.println("pig sound is wee, wee");
+    }
+    
+ public void sleep(){
+    System.out.println("is sleeping Zzz ");
+ }
+    
+}

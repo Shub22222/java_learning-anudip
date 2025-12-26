@@ -1,0 +1,16 @@
+
+
+enum level {
+    LOW,
+    MEDIUM,
+    HIGH
+
+}
+public class  main3 {
+    public static void main(String[] args) {
+        level obj=level.LOW;
+        System.out.println(obj);
+    }
+
+    
+}

@@ -1,0 +1,20 @@
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Scanner;
+
+public class User {
+    public static void main(String[] args) {
+        Scanner obj = new Scanner(System.in);
+        System.out.println("hey user give your name:- ");
+        String name = obj.nextLine();
+        try(FileOutputStream obOUT= new FileOutputStream("User.txt",true)){
+           obOUT.write(name.getBytes());
+            System.out.println("sucessful");
+        }
+        catch(IOException e){
+            System.out.println(e);
+
+        }
+    }
+
+}

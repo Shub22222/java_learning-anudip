@@ -1,0 +1,3 @@
+Human vs Machine: Nadella emphasizes that AI must amplify human potential rather than replace it, marking a critical decision point for the industry.
+Practical Deployment: Companies need to focus on real-world AI applications, managing multiple agents, permissions, and memory safely beyond flashy demos.
+Industry Shift: Microsoft and other major firms like Google, OpenAI, and Anthropic are expected to prioritize operational AI use over model spectacle in 2026.
